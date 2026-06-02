@@ -1,6 +1,6 @@
-streamlit==1.35.0
-yt-dlp==2024.1.16
-openai==1.6.1
-anthropic==0.7.8
-requests==2.31.0
-python-dotenv==1.0.0
+streamlit==1.40.1
+yt-dlp==2024.12.09
+openai==1.56.2
+anthropic==0.39.0
+requests==2.32.3
+python-dotenv==1.0.1
