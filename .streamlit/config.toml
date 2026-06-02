@@ -1,0 +1,21 @@
+[theme]
+primaryColor = "#0d3b66"
+backgroundColor = "#f8f9fa"
+secondaryBackgroundColor = "#e8f1f5"
+textColor = "#1a1a1a"
+font = "sans serif"
+
+[client]
+showErrorDetails = true
+
+[logger]
+level = "info"
+
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = true
+maxUploadSize = 200
+
+# Allow extended runtime for background monitoring thread
+maxMessageSize = 200
